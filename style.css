@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-placement{
+    padding: 8px;
+    margin:5px, 5px;
+}
+
+.left{
+    margin-left: 20px;
+    padding-left: 2px;
+}
+
+.right{
+    margin-right: 20px;
+    padding-right: 2px;
+}
+
+.loginBox{
+    margin-left: 14%;
+}
